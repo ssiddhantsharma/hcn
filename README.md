@@ -1,2 +1,1 @@
-# hcn
-Siddhant's visualization for CASSUM'20 - Summer Fellowship
+## Siddhant's visualization for CASSUM'20 - Summer Fellowship
